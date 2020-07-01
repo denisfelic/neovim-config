@@ -1,0 +1,23 @@
+ranger commands:
+space+r --> open the window
+q --> exit
+hjkl --> navigate
+backspace --> show hidden files
+
+nvim commands:
+i  --> insert text in the back of the cursos are
+a  --> insert text in the front of cursor
+o --> insert text in new line below
+
+
+0 --> go to the begin of the line
+$ --> go to end of the line
+b --> back
+w --> foward
+e --> foward
+
+
+    movements      k
+                h     l
+                   j
+
